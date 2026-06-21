@@ -9,7 +9,7 @@
 
 Dự án xây dựng mô hình **Mạng Nơ-ron Tích Chập (Convolutional Neural Network — CNN)** để nhận diện và phân loại **4 loại hoa** từ ảnh đầu vào. Dự án được thực hiện theo hai giai đoạn:
 
-- **Giai đoạn 1 (`Overfitting.ipynb`)** — Xây dựng mô hình CNN cơ bản, huấn luyện và phân tích hiện tượng Overfitting. Đây là nội dung **chính của bài báo cáo**.
+- **Giai đoạn 1 (`main.ipynb`)** — Xây dựng mô hình CNN cơ bản, huấn luyện và phân tích hiện tượng Overfitting. Đây là nội dung **chính của bài báo cáo**.
 - **Giai đoạn 2 (`CNN_final.ipynb`)** — Phiên bản nâng cấp, áp dụng kỹ thuật **Data Augmentation** để khắc phục Overfitting và cải thiện khả năng tổng quát hóa của mô hình.
 
 ---
@@ -19,7 +19,7 @@ Dự án xây dựng mô hình **Mạng Nơ-ron Tích Chập (Convolutional Neur
 ```
 CNN_HAUI/
 │
-├── Overfitting.ipynb        # Notebook báo cáo chính: CNN cơ bản + phân tích Overfitting
+├── main.ipynb        # Notebook báo cáo chính: CNN cơ bản + phân tích Overfitting
 ├── CNN_final.ipynb          # Notebook nâng cấp: thêm Data Augmentation
 ├── CNN_NhandienHoa.h5       # File lưu trọng số mô hình đã huấn luyện (phiên bản nâng cấp)
 ├── datasetv1.rar            # Bộ dữ liệu hoa (train / valid / test)
