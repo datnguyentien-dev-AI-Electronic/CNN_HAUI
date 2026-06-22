@@ -137,7 +137,7 @@ Pillow
 ### Chạy trên Google Colab (Khuyến nghị)
 
 1. Mở file `.ipynb` tương ứng trên [Google Colab](https://colab.research.google.com/)
-2. Tải file `datasetv1.rar` lên Colab hoặc Google Drive(:https://drive.google.com/drive/folders/13yyk74C_ljLvXb8DhiVxCcRY-CzMcALF?usp=drive_link)
+2. Tải file `datasetv1.rar` lên Colab hoặc Google Drive(https://drive.google.com/drive/folders/13yyk74C_ljLvXb8DhiVxCcRY-CzMcALF?usp=drive_link)
 3. Chạy lần lượt từng cell theo thứ tự từ trên xuống
 4. Quan sát đồ thị và kết quả đánh giá ở cuối notebook
 
