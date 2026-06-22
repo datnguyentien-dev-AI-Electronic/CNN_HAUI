@@ -20,6 +20,7 @@ Dự án xây dựng mô hình **Mạng Nơ-ron Tích Chập (Convolutional Neur
 CNN_HAUI/
 │
 ├── main.ipynb        # Notebook báo cáo chính: CNN cơ bản + phân tích Overfitting
+├── deploy.ipynb             # Triển khai model đã convert (.h5)
 ├── CNN_final.ipynb          # Notebook nâng cấp: thêm Data Augmentation
 ├── CNN_NhandienHoa.h5       # File lưu trọng số mô hình đã huấn luyện (phiên bản nâng cấp)
 ├── datasetv1.rar            # Bộ dữ liệu hoa (train / valid / test)
